@@ -15,7 +15,7 @@ st.write(
 )
 
 
-st.write("Go ahead, click on a row in the table below!")
+st.write("Click on a row in the table below!")
 
 
 def aggrid_interactive_table(df: pd.DataFrame):
