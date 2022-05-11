@@ -10,7 +10,6 @@ transformers==4.3.0
 bert-extractive-summarizer
 requests
 urllib3
-json
 
 
 
