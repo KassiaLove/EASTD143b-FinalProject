@@ -37,8 +37,6 @@ spacy-loggers==1.0.2
 spacy-streamlit==1.0.3
 
 
-streamlit==1.5.0
-
 tokenizers==0.10.3
 
 torch==1.11.0
