@@ -6,7 +6,6 @@ pdfplumber
 wordcloud
 matplotlib
 spacy
-collections
 heapq
 re
 os
