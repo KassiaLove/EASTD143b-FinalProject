@@ -8,7 +8,6 @@ matplotlib
 spacy
 transformers==4.3.0
 bert-extractive-summarizer
-PyTorch==1.7.0
 PIL
 requests
 urllib3
