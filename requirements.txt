@@ -12,7 +12,7 @@ spacy
 spacy-streamlit
 torch
 torchvision
-transformers==3.3.0
+transformers
 sentencepiece
 urllib3
 wordcloud
