@@ -8,7 +8,6 @@ matplotlib
 spacy
 transformers==4.3.0
 bert-extractive-summarizer
-PIL
 requests
 urllib3
 json
