@@ -12,6 +12,6 @@ spacy
 spacy-streamlit
 torch
 torchvision
-transformers==4.8.2
+transformers==3.3.0
 urllib3
 wordcloud
