@@ -4,7 +4,7 @@ click==8
 numpy
 pdfplumber
 wordcloud
-matplotlib.pyplot
+matplotlib
 spacy
 string
 collections
