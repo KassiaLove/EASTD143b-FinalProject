@@ -6,14 +6,11 @@ pdfplumber
 wordcloud
 matplotlib
 spacy
-re
-os
 transformers==4.3.0
 bert-extractive-summarizer
 PyTorch==1.7.0
 PIL
 requests
-io
 urllib3
 json
 
